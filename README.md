@@ -2,7 +2,7 @@
 
 <img src="https://github.com/angelicadietzel/angelicadietzel/blob/main/gh-header-image.png" alt="banner that says Angelica Dietzel - python enthusiastr, content creator and data analyst alongside a cartoon illustration of Angelica">
 
-Hi, I'm Angelica! I'm a Python enthusiast inspired by data who is passionate about making open-source more accessible, teaching others, building community, online & offline, and being a self-taught advocate. I enjoy teaching and inspiring other technologists by creating approachable learning material whether through a combination of open-source, articles or tutorials. 
+Hi, I'm Angelica! I'm a Python enthusiast inspired by data who is passionate about making open-source more accessible, teaching others, building community, online & offline, and a self-taught advocate. I enjoy teaching and inspiring other technologists by creating approachable learning material whether through a combination of open-source, articles or tutorials. 
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/angelicadietzel"><img align="left" width="150" height="150" src="https://github.com/angelicadietzel/angelica/blob/main/octoangelica.png"></a>
