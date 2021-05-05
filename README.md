@@ -8,3 +8,4 @@ Hi, I'm Angelica! I'm a Python enthusiast inspired by data who is passionate abo
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/angelicadietzel"><img align="left" width="150" height="150" src="https://github.com/angelicadietzel/angelica/blob/main/octoangelica.png"></a>
 - Learning in public on <a href="https://www.medium.com/@angelicacodes">Medium</a> or <a href="https://dev.to/angelicadietzel">Dev</a> or <a href="https://hackernoon.com/u/angelica-dietzel">Hackernoon</a> or <a href="https://hashnode.com/@angelicacodes">Hashnode</a> ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/angelicadietzel/">LinkedIn</a> 💼
+- Sharing thoughts on <a href="https://www.twitter.com/earth2angelica/">Twitter</a> 💡
