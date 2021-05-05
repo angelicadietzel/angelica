@@ -5,6 +5,5 @@ I'm a software engineer who is passionate about making open-source more accessib
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.medium.com/@angelicadietzel">Medium</a> or <a href="https://www.monica.dev">monica.dev</a> ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
+- Learning in public on <a href="https://www.medium.com/@angelicacodes">Medium</a> or <a href="https://dev.to/angelicadietzel">Dev</a> or <a href="https://hackernoon.com/u/angelica-dietzel">Hackernoon</a> or <a href="https://hashnode.com/@angelicacodes">Hashnode</a> ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/angelicadietzel/">LinkedIn</a> 💼
